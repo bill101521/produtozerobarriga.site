@@ -52,7 +52,8 @@ body {
 }
 
 .black h1 {
-	color: yellow;
+  font-size: 18px;
+  color: yellow;
 }
 
 .black p {
